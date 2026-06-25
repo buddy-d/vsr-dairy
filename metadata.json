@@ -1,0 +1,6 @@
+{
+  "name": "VSR Venkateshwara Milk Center",
+  "description": "VSR (Venkateshwara Milk Center) in Ieeja, Telangana delivers pure, premium, farm-fresh dairy products including milk, curd, and ghee.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
