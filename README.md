@@ -1,20 +1,81 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🥛 VSR (Venkateshwara Milk Center)
 
-# Run and deploy your AI Studio app
+A modern, responsive dairy business website built with React, TypeScript, and Tailwind CSS for VSR (Venkateshwara Milk Center), located in Ieeja, Jogulamba Gadwal District, Telangana.
 
-This contains everything you need to run your app locally.
+## 🌟 Features
 
-View your app in AI Studio: https://ai.studio/apps/32e7b3d9-f16a-45d1-ac2d-a0000a08041f
+- Modern and responsive design
+- Premium dairy-themed user interface
+- Product showcase for:
+  - Fresh Pure Milk
+  - Fresh Curd
+  - Pure Ghee
+  - Fresh Butter
+- Smooth animations and transitions
+- WhatsApp contact integration
+- Customer testimonials
+- Business information and location section
+- Mobile-friendly design
+- Fast and optimized performance
 
-## Run Locally
+## 🛠️ Built With
 
-**Prerequisites:**  Node.js
+- React
+- TypeScript
+- Tailwind CSS
+- Vite
+- Framer Motion
+- Lucide React Icons
 
+## 📍 Business Information
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+**VSR (Venkateshwara Milk Center)**
+
+Location: Ieeja, Jogulamba Gadwal District, Telangana, India
+
+Providing fresh and high-quality dairy products with a focus on purity, hygiene, and customer satisfaction.
+
+## 🚀 Getting Started
+
+### Install Dependencies
+
+```bash
+npm install
+```
+
+### Run Development Server
+
+```bash
+npm run dev
+```
+
+### Build for Production
+
+```bash
+npm run build
+```
+
+### Preview Production Build
+
+```bash
+npm run preview
+```
+
+## Responsive Design
+
+The website is optimized for:
+
+- Mobile Phones
+- Tablets
+- Laptops
+- Desktop Computers
+
+## Mission
+
+To deliver fresh, pure, and high-quality dairy products to families while maintaining trust, quality, and customer satisfaction.
+
+##  License
+
+This project is developed for VSR (Venkateshwara Milk Center).
+
+© VSR (Venkateshwara Milk Center). All Rights Reserved.
