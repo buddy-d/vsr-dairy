@@ -13,6 +13,7 @@ import Footer from './components/Footer';
 import VSRLogo from './components/VSRLogo';
 import { Sparkles, MessageCircle, ArrowUp } from 'lucide-react';
 import { motion, AnimatePresence } from 'motion/react';
+import { Analytics } from '@vercel/analytics/react';
 
 export default function App() {
   const [showScrollTop, setShowScrollTop] = useState(false);
@@ -182,6 +183,9 @@ export default function App() {
         )}
 
       </div>
+
+      {/* Vercel Web Analytics */}
+      <Analytics />
 
     </div>
   );
